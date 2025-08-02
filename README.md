@@ -6,8 +6,7 @@ A real-time fire and smoke detection system using a custom-trained YOLOv8 model.
 
 ## 📹 Demo
 
-https://user-images.githubusercontent.com/your-video-link.mp4  
-> 🔁 Replace this with your actual video URL or embed.
+https://github.com/napsnu/Early-Fire-Detection/blob/main/fire_output.avi
 
 ---
 
@@ -110,13 +109,6 @@ fire-detection-yolov8/
 - Deploy to Raspberry Pi / Jetson
 - Log alert history
 
----
-
-## 📝 License
-
-MIT License
-
----
 
 ## 🙏 Acknowledgements
 
