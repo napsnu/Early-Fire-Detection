@@ -1,0 +1,28 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+ENV/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model weights and large files
+*.pt
+*.pth
+
+# Logs and runtime data
+*.log
+
+# IDE/editor config
+.vscode/
+.idea/
+
+# Video files
+*.mp4
+*.avi
+*.mov
